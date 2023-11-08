@@ -97,15 +97,17 @@ h1{
 
 p{
     color: rgb(28, 28, 28);
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 300;
     line-height: 22px;
     padding: 10px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h3{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 23px;
+
 }
 
 .row{
@@ -117,9 +119,36 @@ h3{
 
 .course-col{
     flex-basis: 31%;
-    background: rgba(143, 93, 33, 0.484);
+    background: #73634f;
     border-radius: 10px;
     margin-bottom: 5%;
     padding: 20px 12px;
     box-sizing: border-box;
+    height: 400px;
+}
+
+.columnobrazky{
+    width: 25%;
+    padding-top: 10%;
+}
+
+.sekcia{
+    min-height: 100vh;
+    width: 100%;
+    padding-top: 80px;
+    background-color:#73634f;
+    
+}
+
+.nadpis{
+    font-family: 'Emilys Candy', serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.obrazkyobrazky{
+    
+    border: 12%;
+    border-radius: 10px;
+
 }
