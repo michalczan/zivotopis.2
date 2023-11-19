@@ -96,18 +96,18 @@ h1{
 }
 
 p{
-    color: rgb(28, 28, 28);
+    color: whitesmoke;
     font-size: 20px;
     font-weight: 300;
     line-height: 22px;
     padding: 10px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:'Times New Roman', Times, serif ;
 }
 
 h3{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 23px;
-
+    color: whitesmoke;
 }
 
 .row{
