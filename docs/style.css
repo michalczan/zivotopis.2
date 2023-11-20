@@ -153,6 +153,7 @@ h3{
     -ms-flex-wrap: wrap; /* IE10 */
     flex-wrap: wrap;
     padding: 0 4px;
+    background-color: rgb(44, 44, 44);
 }
 
   /* Create four equal columns that sits next to each other */
@@ -161,6 +162,7 @@ h3{
     flex: 25%;
     max-width: 25%;
     padding: 0 4px;
+    background-color: rgb(44, 44, 44);
 }
 
 .column img {
@@ -186,3 +188,14 @@ h3{
     max-width: 100%;
     }
 }
+
+.scroll{
+    scroll-behavior: smooth;
+}
+
+.h2h2{
+    color: white;
+    text-align: center;
+    font-size: 300%;
+}
+
